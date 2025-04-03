@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mern stack development
 - 👯 I’m looking to collaborate on new startup 
 - 🤔 I’m looking for help with guide for my develpoment jounary
-- 📫 How to reach me: linkdin
+- 📫 How to reach me: Linkdin:-https://www.linkedin.com/in/abhinav-gupta-a2a103334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: Male He/him
 -->
