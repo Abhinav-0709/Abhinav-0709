@@ -50,8 +50,6 @@ I actively participate in **national & international hackathons**, building fast
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
@@ -87,21 +85,18 @@ I actively participate in **national & international hackathons**, building fast
 
 I’ve built and shipped projects across **AI, MERN, Python, and UI/UX**, including:
 
+- 🎓 **RepoNavigator**  
+  A multi agent network for summarising repos using Groq and Gemini models with a function dashboard
+
+- 🎓 **Nexus Relief**  
+  Built a coordination platform for emergency resource allocation.
+  Its a simulation for drones on a map which can be operational
+
+- 🎓 **ScopeLock**  
+  A practical tool designed for freelancers to generate service agreements using AI.
+  
 - 🎓 **CampusCopilot**  
   AI-powered campus assistant for students (FAQs, reminders, recommendations, automation)
-
-- 🤖 **AI Analysis Models**  
-  Image & text-based ML systems for intelligent insights and recommendations
-
-- 📚 **BookVerse**  
-  MERN-based book review & community platform
-
-- ✅ **Projex**  
-  Task & project management system with modern UI/UX
-
-- 🎨 **Advanced UI/UX Projects**  
-  High-impact animated interfaces, parallax effects, marquees, and interaction-heavy designs
-
 ---
 
 ## 🏆 Hackathons & Competitions
